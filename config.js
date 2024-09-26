@@ -14,19 +14,19 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['966578700193', '👑 ALI - OWNER 👑', true],
-  ['966551138192', '💫 BOT 💫', true],
+  ['201550680822', '👑 ALI - OWNER 👑', true],
+  ['201550680822', '💫 BOT 💫', true],
   
 ];
 
-global.suittag = ['966578700193'];
-global.prems = ['966578700193'];
+global.suittag = ['201550680822'];
+global.prems = ['201550680822'];
 
-global.packname = '🄰🄻🄸🄱🄾🅃';
-global.author = '𝚊𝚕𝚒𝚚𝚞𝚝𝚎𝚎𝚗𝚊𝚑';
-global.wm = '🄰🄻🄸🄱🄾🅃';
-global.titulowm = '🄰🄻🄸🄱🄾🅃';
-global.titulowm2 = `🄰🄻🄸🄱🄾🅃`
+global.packname = '🄱🄾🅃';
+global.author = 'shawarma';
+global.wm = '🄱🄾🅃';
+global.titulowm = '🄱🄾🅃';
+global.titulowm2 = `🄱🄾🅃`
 global.igfg = '𝔞𝔩𝔦 𝔮𝔲𝔱𝔢𝔢𝔫𝔞𝔥';
 global.wait = '*_[ ⏳ ] يرجى الإنتظــــار يتـم إرسال طلبــك 📲..._*';
 
@@ -56,7 +56,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.nomorown = '201550680822';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
